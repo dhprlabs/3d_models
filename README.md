@@ -28,7 +28,7 @@ This repo includes robotics-centric designs such as:
 
 - Sensor mounts and integration systems
 
-- These are especially useful for teams in:
+These are especially useful for teams in:
  
 - Robotics competitions (e.g., FRC, FTC, RoboCup)
  
