@@ -1,41 +1,69 @@
-# Onshape Design Repository
+# 3D Models Repository
 
-Welcome to the Onshape Design Repository – a curated collection of 3D CAD models created using `Onshape`, ranging from beginner-friendly designs to complex mechanical assemblies, with a special focus on robotics components and systems.
+Welcome to my 3D Models Repository – a curated collection of CAD and 3D 
+models created using various design tools including **SOLIDWORKS** and 
+**Blender**. This repository features designs ranging from 
+beginner-friendly models to complex mechanical assemblies, with a 
+special focus on robotics components and systems.
 
-Whether you're a student, hobbyist, or robotics enthusiast, this repository is designed to help you:
+Whether you're a student, hobbyist, or robotics enthusiast, this 
+repository is designed to help you:
 
 - Understand parametric modeling basics
+- Learn best practices in CAD and 3D modeling
+- Explore real-world mechanical parts used in robotics and various 
+projects
+- Access ready-to-use models for your own projects
 
-- Learn best practices in CAD
+## Repository Structure
 
-- Explore real-world mechanical parts used in robotics
+Models are organized by software/tool used:
+
+- **SOLIDWORKS** - Parametric CAD models and assemblies
+- **Blender** - 3D models for visualization, rendering, and animation
 
 ## Getting Started
 
-- Browse the folders based on your interest or skill level
-
-- Click on any folder to access the associated Onshape link or download exported files
-
-- Use or modify the design in your own projects
+- Browse the folders based on your interest, skill level, or required software
+- Download and use or modify the designs in your own projects
+- Check individual folders for file formats available (.SLDPRT, .STEP, .
+STL, .blend, etc.)
 
 ## Focus on Robotics
 
-This repo includes robotics-centric designs such as:
+This repository includes robotics-centric designs such as:
 
 - Actuator mechanisms
-
 - Arm and gripper assemblies
-
 - Sensor mounts and integration systems
+- Custom mechanical components
 
-These are especially useful for teams in:
+These are especially useful for:
  
 - Robotics competitions (e.g., FRC, FTC, RoboCup)
- 
 - DIY automation projects
-
 - Simulation or prototyping stages of embedded systems
+- Educational purposes
+
+## Usage & Licensing
+
+All models in this repository are free to use for:
+
+- Personal projects
+- Educational purposes
+- Prototyping and testing
+- Commercial projects (attribution appreciated)
+
+Please credit this repository if you use these models in your projects.
 
 ## Contributions
 
-While this is a personal design journal, collaborators are welcome to suggest improvements, new design ideas, or share their Onshape models for inclusion.
+While this is a personal design collection, collaborators are welcome to:
+
+- Suggest improvements or modifications
+- Share ideas for new designs
+- Report issues with existing models
+- Contribute your own models (SOLIDWORKS, Onshape, Blender, or other CAD 
+tools)
+
+Feel free to open an issue or submit a pull request!
